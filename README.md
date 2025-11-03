@@ -1,2 +1,6 @@
 # PintuOpenGL
-Ini adalah project Workshop Grafika Komputer
+Project Workshop Grafika Komputer membuat benda disekitar kampus
+
+Dikerjakan oleh:
+-Muhamad ihda hadziqul wafa
+-Nasywa elsa eka putri
